@@ -1,11 +1,13 @@
 # Python Basics
+
 This repository contains basic Python programs practiced during my AI & DS course.
 
-Programs:
+## Programs Included
+- Hello World
+- Age Calculator
 - Factorial
 - Fibonacci
-- Largest of 5 numbers
-- Matrix addition
+- Maximum of 5 Numbers
 
-Author: Monika V
-    
+## Author
+Monika V
