@@ -1,13 +1,15 @@
-# Python Basics
+# Python Programs
 
-This repository contains basic Python programs practiced during my AI & DS course.
+This repository contains my Python practice programs as part of my AI & DS learning journey.
 
-## Programs Included
-- Hello World
-- Age Calculator
+Topics covered:
+- Arithmetic operations
+- Conditional statements
+- Loops
+- Functions
 - Factorial
 - Fibonacci
-- Maximum of 5 Numbers
+- Maximum/Minimum problems
+- Basic algorithms
 
-## Author
-Monika V
+Created by: Monika V
