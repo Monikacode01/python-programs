@@ -4,25 +4,29 @@ This repository contains my Python programming practice programs.
 
 I am practicing Python regularly to improve my programming skills, problem-solving ability, and logical thinking.
 
-# Programs
+# 📚 Programs Included
 
-1. Hello World
-2. Addition of Two Numbers
-3. Subtraction of Two Numbers
-4. Multiplication of Two Numbers
-5. Division of Two Numbers
-6. Swap Two Numbers
-7. Maximum of Two Numbers
-8. Minimum of Two Numbers
-9. Maximum Among 5 Numbers
-10. Minimum Among 5 Numbers
-11. Even or Odd
-12. Positive or Negative
-13. Leap Year
-14. Age Calculator
-15. Factorial
-16. Fibonacci Series
-17. Simple Calculator
+- Addition of two numbers
+- Subtraction of two numbers
+- Multiplication of two numbers
+- Division of two numbers
+- Simple Calculator
+- Age Calculator
+- Leap Year Check
+- Even Numbers
+- Odd Numbers
+- Even or Odd Check
+- Positive or Negative Check
+- Factorial
+- Fibonacci Series
+- Maximum of Two Numbers
+- Maximum of Five Numbers
+- Minimum of Two Numbers
+- Minimum of Five Numbers
+- Swap Two Numbers
+- Print Numbers from 1 to 100
+- Print Numbers from 100 to 1
+- Rectangle Area
 
 # Purpose
 
