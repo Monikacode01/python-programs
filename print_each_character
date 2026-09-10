@@ -1,0 +1,7 @@
+# Create a string
+word = "python"
+
+# Use a for loop to go through each character
+for ch in word:
+    # Print each character
+    print(ch)
