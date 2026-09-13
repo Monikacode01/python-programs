@@ -1,0 +1,8 @@
+# Get the radius from the user
+radius = float(input("Enter radius: "))
+
+# Calculate the perimeter
+perimeter = 2 * 3.14 * radius
+
+# Display the result
+print("Perimeter of Circle:", perimeter)
